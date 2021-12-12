@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.2",
     "standard": "^16.0.4"
   }
 }
